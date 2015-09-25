@@ -1,0 +1,7 @@
+{
+  "name": "Cleverbot-node",
+  "version": "1.0.0",
+  "devDependencies": {
+    "html-strings": "~0.0.1"
+  }
+}
